@@ -7,6 +7,7 @@ royalguard = 100
 bigboss = 350
 smallboss = 275
 tenbossgroup = 400
+test = 120
 
 def checkPlayerHealth():
     if player < 1:
