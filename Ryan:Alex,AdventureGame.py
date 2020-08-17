@@ -54,7 +54,6 @@ def tenbossgroupAttack():
     print("Player Health:", player)
 
 print("You wake up in a room with a single door. Do you go through or fall back asleep?")
-
 print("You open the door and are in front of a castle. The guards appear mad at you. Fight or run?")
 
 
